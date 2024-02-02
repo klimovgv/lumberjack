@@ -1,3 +1,3 @@
-module github.com/klimovgv/lumberjack.v2
+module github.com/klimovgv/lumberjack
 
 go 1.13
